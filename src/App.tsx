@@ -295,7 +295,7 @@ function App() {
           </div>
 
           <div className="text-center text-gray-500 text-sm py-4">
-            © 2024 Développé par <a href="https://github.com/chedlybz" className="text-blue-600 hover:text-blue-800" target="_blank" rel="noopener noreferrer">@chedlybz</a>
+            © 2025 Développé par <a href="https://github.com/chedlybz" className="text-blue-600 hover:text-blue-800" target="_blank" rel="noopener noreferrer">@chedlybz</a>
           </div>
         </div>
       </div>
